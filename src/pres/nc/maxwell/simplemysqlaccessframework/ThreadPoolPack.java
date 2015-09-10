@@ -8,7 +8,7 @@
  *  
  **********************************************************************/
 
-package pres.nc.maxwell;
+package pres.nc.maxwell.simplemysqlaccessframework;
 
 import java.io.FileInputStream;
 import java.io.IOException;

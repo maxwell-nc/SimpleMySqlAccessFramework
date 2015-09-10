@@ -10,7 +10,7 @@
  *  
  **********************************************************************/
 
-package pres.nc.maxwell;
+package pres.nc.maxwell.simplemysqlaccessframework;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

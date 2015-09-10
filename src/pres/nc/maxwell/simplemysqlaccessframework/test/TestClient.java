@@ -1,4 +1,4 @@
-package pres.nc.maxwell.test;
+package pres.nc.maxwell.simplemysqlaccessframework.test;
 /**********************************************************************
  * 	TestClient.java
  * 
@@ -30,7 +30,7 @@ import java.sql.ResultSet;
 import java.util.concurrent.Future;
 import org.junit.Test;
 
-import pres.nc.maxwell.ThreadPoolPack;
+import pres.nc.maxwell.simplemysqlaccessframework.ThreadPoolPack;
 
 
 public class TestClient {
