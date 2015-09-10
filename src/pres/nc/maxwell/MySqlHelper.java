@@ -10,7 +10,7 @@
  *  
  **********************************************************************/
 
-package pres.maxwell.nc;
+package pres.nc.maxwell;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

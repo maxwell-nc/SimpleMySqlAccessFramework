@@ -8,7 +8,7 @@
  *  
  **********************************************************************/
 
-package pres.maxwell.nc;
+package pres.nc.maxwell;
 
 import java.io.FileInputStream;
 import java.io.IOException;

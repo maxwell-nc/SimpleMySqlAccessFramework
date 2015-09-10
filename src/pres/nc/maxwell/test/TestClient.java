@@ -1,4 +1,4 @@
-package pres.maxwell.nc.test;
+package pres.nc.maxwell.test;
 /**********************************************************************
  * 	TestClient.java
  * 
@@ -30,7 +30,7 @@ import java.sql.ResultSet;
 import java.util.concurrent.Future;
 import org.junit.Test;
 
-import pres.maxwell.nc.ThreadPoolPack;
+import pres.nc.maxwell.ThreadPoolPack;
 
 
 public class TestClient {
